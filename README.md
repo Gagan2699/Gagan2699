@@ -18,6 +18,8 @@
 
 Made python projects like CLI tool and Websraper.
 
+Working on Learning Series for Terraform , Docker and Jenkins.
+
 Leadership Experience: Mentor at Computational Thinking Club for Fall 2020.
 
 
