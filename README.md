@@ -9,7 +9,7 @@
 - I’m currently learning DevOps tools like __Kuberenetes__ and building projects with __Python and Azure.__
 - Enhancing my coding skills.
 
-- 💞️ I’m looking to collaborate on __Azure Projects._ 
+- 💞️ I’m looking to collaborate on __Azure Projects.__
 
 - 📫 Contact me via gagan26@my.yorku.ca
 
