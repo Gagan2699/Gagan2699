@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Gagandeep Singh
+- 👋 Hi, I’m Gagandeep Singh, third year Computer Science student at York University.
+
+
 - 👀 I’m interested in Cloud Computing and especially DevOps.
 - 🌱 I’m currently learning DevOps tools like Kuberenetes and building projects with Python and Azure.
 - 💞️ I’m looking to collaborate on Azure Projects 
