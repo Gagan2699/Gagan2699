@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in __Cloud Computing and especially DevOps.__
  
-- 🌱 Things I am working on 
+- 🌱 Things I am working on:
  
 - I’m currently learning DevOps tools like __Kuberenetes__ and building projects with __Python and Azure.__
 - Enhancing my coding skills.
@@ -29,7 +29,7 @@ Java, Python, Golang, Java Script.
 
 ## DevOps Tools
 
-Docker, Docker Swarm, Kuberenetes, Jenkins, Terraform, Github Actions.
+Docker, Swarm, Kuberenetes, Jenkins, Terraform, Github Actions.
 
 
 <!---
