@@ -11,7 +11,7 @@
 
 - 💞️ I’m looking to collaborate on __Azure and Python Projects.__
 
-- 📫 Contact me via __gagan26@my.yorku.ca.
+- 📫 Contact me via __gagan26@my.yorku.ca__ .
 
 
 ## Experience
