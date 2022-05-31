@@ -6,7 +6,7 @@
  
 - 🌱 Things I am working on:
  
-- I’m currently learning DevOps tools like __Kuberenetes__, __Jenkins__and building projects with __Python and Golang.__
+- I’m currently learning DevOps tools like__Kuberenetes__, _Jenkins_and building projects with __Python and Golang.__
 - Enhancing my coding skills.
 
 - 💞️ I’m looking to collaborate on __ DevOps, Automation or SysAdmin Projects.__
