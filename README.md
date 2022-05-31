@@ -9,7 +9,7 @@
 - I’m currently learning DevOps tools like __Kuberenetes__, __Jenkins__ and making projects with __Python and Golang__.
 - Enhancing my coding skills.
 
-- 💞️ I’m looking to collaborate on __ DevOps, Automation or SysAdmin Projects.__
+- 💞️ I’m looking to collaborate on __DevOps, Automation or SysAdmin Projects.__
 
 - 📫 Contact me via gagan26@my.yorku.ca.
 
